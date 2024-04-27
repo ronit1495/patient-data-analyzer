@@ -22,7 +22,7 @@ Before running the application, make sure you have the following installed:
 
 2. Navigate to the project directory:
     ```
-    cd clinical-analysis-recommendation
+    cd patient-data-analyzer
     ```
 3. Set up your OpenAI API key as an environment variable in your .zshrc file:
     ```
